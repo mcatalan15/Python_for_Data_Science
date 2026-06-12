@@ -1,9 +1,3 @@
-¡Tienes toda la razón! Mil disculpas, se me pasó incluir el texto del archivo en mi respuesta anterior.
-
-Aquí tienes el contenido completo para el `README.md` de tu **Exercise 02**. Explica a fondo cómo funciona tu solución y por qué el `match / case` es la herramienta perfecta para este ejercicio.
-
----
-
 # Python Piscine - Module 00: Exercise 02 (First function python)
 
 ## Purpose of the Code
@@ -55,7 +49,3 @@ def all_thing_is_obj(object: any) -> int:
 1. **No Global Scope execution:** The script only defines the function. If executed alone (`python find_ft_type.py`), it outputs nothing, as required.
 2. **Explicit spacing:** Ensured that `"Dict :"` contains the colon inside the string to guarantee identical formatting across all native collections.
 3. **Type Hinting:** Uses `object: any -> int` to explicitly document the function's expected input type and return behavior, aligned with modern Python best practices.
-
----
-
-Ya lo tienes disponible para guardarlo. Cuando lo tengas listo, cuéntame cómo ves el **Exercise 03 (NULL not found)** y empezamos a desglosar sus trampas con los "valores nulos".
